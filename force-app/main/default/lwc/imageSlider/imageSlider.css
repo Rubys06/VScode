@@ -1,0 +1,30 @@
+div.body{
+  height:185px;
+  width:235px;
+  border: 5px solid red;
+   
+  -webkit-animation: slide 0.5s forwards;
+  -webkit-animation-delay: 2s;
+  animation: slide 0.5s forwards;
+  animation-delay: 2s; 
+ 
+  @-webkit-keyframes slide {
+    100% { left: 0; }
+}
+
+@keyframes slide {
+    100% { left: 0; }
+}
+
+
+}
+.lgc-bg {
+    background-color: rgb(242, 242, 242);
+    
+    height:175px;
+    width:230px;
+}
+
+.lgc-bg-inverse {
+    background-color: rgb(22, 50, 92);
+}

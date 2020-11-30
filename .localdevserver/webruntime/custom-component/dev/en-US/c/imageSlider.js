@@ -1,0 +1,1 @@
+{"errors":[{"code":"\n\n  34 | \n  35 | \n> 36 |          imgcounte++;\n     |                   ^\n  37 | \n  38 |     }\n  39 |  [Error]\n\n1 problem","message":"Error during compilation: C:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\imageSlider\\imageSlider.js:36:19: Parsing error: Unexpected token"}]}

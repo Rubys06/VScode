@@ -1,0 +1,527 @@
+[
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1600765091738,
+            "changeTime": 1600765091738,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1600765091739,
+            "changeTime": 1600765091739,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1600961083788,
+            "changeTime": 1600961083788,
+            "contentHash": "a21009004cd572d890d65233421722a21fcb20a4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1600765091740,
+            "changeTime": 1600765091740,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1600961083794,
+            "changeTime": 1600961083794,
+            "contentHash": "c2dc80f45d21a76f3a1ac0f0f2f01c4104cb375e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\classes\\apexController.cls",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\classes\\apexController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 218,
+            "modifiedTime": 1604989664584,
+            "changeTime": 1604989664584,
+            "contentHash": "da840e1f6ab781937973b572f1880c1a5d8b58e8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\classes\\apexController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\classes\\apexController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1600961083795,
+            "changeTime": 1600961083795,
+            "contentHash": "c5dc73ace99dfec82b84f251bcd03ac8f14c246c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1604897851474,
+            "changeTime": 1604897851474,
+            "contentHash": "df2caf38df73d4bccf5df312dc558631da50a624",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\createAccoundLDS",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\createAccoundLDS",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1604400202955,
+            "changeTime": 1604400202955,
+            "contentHash": "89f60e061d41e3efed75bfd4494ff7987cea63ab",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\createAccoundLDS\\createAccoundLDS.html",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\createAccoundLDS\\createAccoundLDS.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 771,
+            "modifiedTime": 1605010488047,
+            "changeTime": 1605010488350,
+            "contentHash": "31562aef92b636bdd04ba1dd219a4b62fef60cb6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\createAccoundLDS\\createAccoundLDS.js",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\createAccoundLDS\\createAccoundLDS.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 772,
+            "modifiedTime": 1604561134486,
+            "changeTime": 1604561135314,
+            "contentHash": "f152ee937134d3a1f852e47c6954a80987ac1cb4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\createAccoundLDS\\createAccoundLDS.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\createAccoundLDS\\createAccoundLDS.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 364,
+            "modifiedTime": 1604561698634,
+            "changeTime": 1604561698634,
+            "contentHash": "0a50d6dc0d02e9dd72285961249eb7815d93ae73",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\imageSlider",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\imageSlider",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1603882206813,
+            "changeTime": 1603882206813,
+            "contentHash": "d36b77529a8acbed69add3ee4be8c34935be8a84",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\imageSlider\\imageSlider.css",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\imageSlider\\imageSlider.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 486,
+            "modifiedTime": 1604231024926,
+            "changeTime": 1604231025934,
+            "contentHash": "a4d8e3c134fe9afc5c0a7354f6e016eeda96dfb9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\imageSlider\\imageSlider.html",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\imageSlider\\imageSlider.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 402,
+            "modifiedTime": 1604244994129,
+            "changeTime": 1604244994190,
+            "contentHash": "ea913d0cebf7adfeee3baa11d5c34f394b81600e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\imageSlider\\imageSlider.js",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\imageSlider\\imageSlider.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 973,
+            "modifiedTime": 1604311424023,
+            "changeTime": 1604311424023,
+            "contentHash": "024f20e17382bf5647e28b7bb789192727b4a92b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\imageSlider\\imageSlider.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\imageSlider\\imageSlider.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 208,
+            "modifiedTime": 1602519367483,
+            "changeTime": 1602519367483,
+            "contentHash": "fc2fc3d71ef67b3b36999bd54eee96ac52e6429a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\parentProperty",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\parentProperty",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1603522198166,
+            "changeTime": 1603522198166,
+            "contentHash": "6590c16ef48b1feb24280bd69e43ce3e57808d3f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\parentProperty\\parentProperty.html",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\parentProperty\\parentProperty.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 459,
+            "modifiedTime": 1603874787045,
+            "changeTime": 1603874788047,
+            "contentHash": "ab3ec8b379cbe87a0d2bf2bbc9d5fd6154f0123d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\parentProperty\\parentProperty.js",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\parentProperty\\parentProperty.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 456,
+            "modifiedTime": 1603876745467,
+            "changeTime": 1603876745852,
+            "contentHash": "a47638fe56d4bf1dde0442681423fd9fd7064992",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\parentProperty\\parentProperty.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\parentProperty\\parentProperty.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 208,
+            "modifiedTime": 1603522198167,
+            "changeTime": 1603522198167,
+            "contentHash": "fc2fc3d71ef67b3b36999bd54eee96ac52e6429a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\properites",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\properites",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1603863265601,
+            "changeTime": 1603863265601,
+            "contentHash": "355be83d54b7319fc1fe7c52b0e3dc7696a2e7c9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\properites\\properites.css",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\properites\\properites.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 119,
+            "modifiedTime": 1603863302535,
+            "changeTime": 1603863303506,
+            "contentHash": "0831dc69742339238ba0addec228ddda34b66f92",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\properites\\properites.html",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\properites\\properites.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 363,
+            "modifiedTime": 1603877069334,
+            "changeTime": 1603877070337,
+            "contentHash": "de6093603ee08e36692839a9e03f7fa40108b375",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\properites\\properites.js",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\properites\\properites.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 292,
+            "modifiedTime": 1603877695204,
+            "changeTime": 1603877696204,
+            "contentHash": "726cb844f5684caaab1bb39e73b61db745967dd2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\properites\\properites.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\properites\\properites.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 208,
+            "modifiedTime": 1603521276350,
+            "changeTime": 1603521276350,
+            "contentHash": "fc2fc3d71ef67b3b36999bd54eee96ac52e6429a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\toDoList",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\toDoList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1600850153499,
+            "changeTime": 1600850153499,
+            "contentHash": "bb79af3d69e9031cf6dfad3b23cd1d0684bdd6b3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\toDoList\\toDoList.html",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\toDoList\\toDoList.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 4327,
+            "modifiedTime": 1602499369189,
+            "changeTime": 1602499369983,
+            "contentHash": "4f238a02e8147c520f8438ce4f1f02bdbfa3fb25",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\toDoList\\toDoList.js",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\toDoList\\toDoList.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2631,
+            "modifiedTime": 1602519419884,
+            "changeTime": 1602519420762,
+            "contentHash": "0db7a06b3612814ab66413995abf431fec94c552",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\toDoList\\toDoList.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\toDoList\\toDoList.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 208,
+            "modifiedTime": 1600850153501,
+            "changeTime": 1600850153501,
+            "contentHash": "fc2fc3d71ef67b3b36999bd54eee96ac52e6429a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\tostNotification",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\tostNotification",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1604897851489,
+            "changeTime": 1604897851489,
+            "contentHash": "5929bb37e78c302f0fa079e62a76932e93532bd3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\tostNotification\\tostNotification.html",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\tostNotification\\tostNotification.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 618,
+            "modifiedTime": 1605010412684,
+            "changeTime": 1605010413224,
+            "contentHash": "a5ef30fa9ef44944cccbcbfaa1466ed380f0a65d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\tostNotification\\tostNotification.js",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\tostNotification\\tostNotification.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 518,
+            "modifiedTime": 1605010519210,
+            "changeTime": 1605010519210,
+            "contentHash": "5b702c38f1c15842890e55c597b8288231526f6a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\tostNotification\\tostNotification.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent\\force-app\\main\\default\\lwc\\tostNotification\\tostNotification.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 364,
+            "modifiedTime": 1605009844042,
+            "changeTime": 1605009844042,
+            "contentHash": "0a50d6dc0d02e9dd72285961249eb7815d93ae73",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\rusingh\\Desktop\\HelloWorldLightningWebComponent",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1600849925743,
+            "changeTime": 1601880783530,
+            "contentHash": "5acb7fbcb8ad3025b092d21e0955cfbb3290c7b3",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

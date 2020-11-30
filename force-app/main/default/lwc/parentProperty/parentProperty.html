@@ -1,0 +1,21 @@
+<template>
+    <lightning-card>
+    <ul >
+     <template for:each={meetingRoom} for:item="Room">
+
+      <li  key={Room.roomCapacity} style="padding: 10px;">
+
+       <c-properites meetng-room-info={Room} ontileclick={tileInfo}> </c-properites>
+      </li>
+     </template>
+    </ul>
+
+</lightning-card>
+
+ <lightning-layout>
+     <lightning-layout-item>
+         you have selected:{divSelected}
+     </lightning-layout-item>
+ </lightning-layout>
+    
+</template>

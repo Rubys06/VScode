@@ -1,0 +1,28 @@
+<template>
+  <lightning-input type="number" label="EnterNumber"  onchange={userInput}></lightning-input>
+  <p>
+   <lightning-button label=GetAccount onclick={getAccount} variant="blue">
+
+   </lightning-button>
+
+  </p>
+  <ul>  
+  <template for:each={Accounts} for:item="account">
+       
+     <li key={account.id}>
+        <lightning-output-field field-name="Name">
+
+        </lightning-output-field>
+        <lightning-output-field field-name="phone">
+
+        </lightning-output-field>
+         <lightning-output-field field-name="website"></lightning-output-field>
+
+
+
+     </li>
+    
+
+  </template>
+</ul>
+</template>
